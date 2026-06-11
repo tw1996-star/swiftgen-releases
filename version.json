@@ -1,5 +1,5 @@
 {
   "version": "0.2.1",
   "downloadUrl": "https://github.com/tw1996-star/swiftgen-releases/releases/download/v0.2.1/SwiftGen-0.2.1-mac-arm64.dmg",
-  "notes": "首个测试版（0.x 未正式）：纯 Node 重写 chat agent + macOS 桌面端 + 半自动更新"
+  "notes": "修复 macOS「已损坏」无法打开（完整 ad-hoc 重签）"
 }
