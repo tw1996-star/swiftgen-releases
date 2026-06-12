@@ -1,5 +1,5 @@
 {
   "version": "0.2.1",
   "downloadUrl": "https://github.com/tw1996-star/swiftgen-releases/releases/download/v0.2.1/SwiftGen-0.2.1-mac-arm64.dmg",
-  "notes": "修复 macOS「已损坏」无法打开（完整 ad-hoc 重签）"
+  "notes": "修复 macOS 装机后界面打不开：electron ABI 源码编译 + 完整 ad-hoc 重签(带 JIT entitlements) + 报告生成代理修复 + 工具卡/会话恢复"
 }
