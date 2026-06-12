@@ -1,5 +1,5 @@
 {
-  "version": "0.2.1",
-  "downloadUrl": "https://github.com/tw1996-star/swiftgen-releases/releases/download/v0.2.1/SwiftGen-0.2.1-mac-arm64.dmg",
-  "notes": "修复 macOS 装机后界面打不开：electron ABI 源码编译 + 完整 ad-hoc 重签(带 JIT entitlements) + 报告生成代理修复 + 工具卡/会话恢复"
+  "version": "0.2.2",
+  "downloadUrl": "https://github.com/tw1996-star/swiftgen-releases/releases/download/v0.2.2/SwiftGen-0.2.2-mac-arm64.dmg",
+  "notes": "修复报告生成全章失败：公众参与调查表 base64 撑爆 enterpriseJson 致 LLM 返空内容；清理已退役 deerflow-gateway"
 }
