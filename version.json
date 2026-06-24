@@ -1,5 +1,5 @@
 {
-  "version": "0.2.3",
-  "downloadUrl": "https://github.com/tw1996-star/swiftgen-releases/releases/download/v0.2.3/SwiftGen-0.2.3-mac-arm64.dmg",
-  "notes": "稳健性修复：报告 Q/M 值计算（危险废物存量聚合、临界量除零守卫）、风险物质白名单精确匹配（消除漏检）、章节编号渲染、SSE 流式输出与长会话上下文压缩的多处边界缺陷；测试稳定性提升。"
+  "version": "0.3.0",
+  "downloadUrl": "https://github.com/tw1996-star/swiftgen-releases/releases/download/v0.3.0/SwiftGen-0.3.0-mac-arm64.dmg",
+  "notes": "v0.3.0:新增「项目管理」页面与入口(多份填报任务集中管理与状态跟踪);新增「报告审核」(AI 多视角审核生成的预案,审核模型可在设置配置);地图选点大幅增强——饮用水源湖库以半透明水质水面渲染、有名无面降级为质量标记点、保护区范围为文字描述时提醒人工核实、详细河道矢量、范围圈与受体标注优化、默认缩放更合适、千岛湖等大湖岸线高精度;应用图标优化。"
 }
